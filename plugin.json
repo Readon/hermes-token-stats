@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "token-stats",
+  "version": "1.0.0",
+  "description": "Hermes Desktop token analytics: a status-bar chip with the focused session's token usage and a right-sidebar Token Analytics panel (session metrics + per-turn table).",
+   "author": { "name": "xydar" },
+  "keywords": ["desktop", "tokens", "usage", "analytics", "statusbar"]
+}
